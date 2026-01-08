@@ -1,2 +1,2 @@
-Branches allow safe experimentation.
+Branches allow safe experimentations.
 Commits help track changes.
