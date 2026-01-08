@@ -1,0 +1,2 @@
+GitHub is used to store and manage code.
+Commits help track changes.
