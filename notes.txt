@@ -1,2 +1,2 @@
-GitHub is used to store and manage code.
+Branches allow safe experimentations.
 Commits help track changes.
